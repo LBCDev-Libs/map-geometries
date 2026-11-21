@@ -1,6 +1,6 @@
 # Map Geometries
 
-[![Tests](https://github.com/Luinux81/map-geometries/workflows/Tests/badge.svg)](https://github.com/Luinux81/map-geometries/actions)
+[![Tests](https://github.com/LBCDev-Libs/map-geometries/workflows/Tests/badge.svg)](https://github.com/LBCDev-Libs/map-geometries/actions)
 [![Latest Stable Version](https://poser.pugx.org/lbcdev/map-geometries/v)](https://packagist.org/packages/lbcdev/map-geometries)
 [![Total Downloads](https://poser.pugx.org/lbcdev/map-geometries/downloads)](https://packagist.org/packages/lbcdev/map-geometries)
 [![License](https://poser.pugx.org/lbcdev/map-geometries/license)](https://packagist.org/packages/lbcdev/map-geometries)
@@ -170,6 +170,6 @@ The MIT License (MIT). Please see [License File](LICENSE.md) for more informatio
 
 This package is part of the LBCDev Maps Suite:
 
-- [livewire-maps-core](https://github.com/Luinux81/livewire-maps-core) - Core Livewire map component
-- [filament-maps-fields](https://github.com/Luinux81/filament-maps-fields) - Map form fields for Filament
-- [filament-maps-widgets](https://github.com/Luinux81/filament-maps-widgets) - Map widgets for Filament panels
+- [livewire-maps-core](https://github.com/LBCDev-Libs/livewire-maps-core) - Core Livewire map component
+- [filament-maps-fields](https://github.com/LBCDev-Libs/filament-maps-fields) - Map form fields for Filament
+- [filament-maps-widgets](https://github.com/LBCDev-Libs/filament-maps-widgets) - Map widgets for Filament panels

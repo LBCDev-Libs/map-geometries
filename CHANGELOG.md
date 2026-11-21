@@ -32,5 +32,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - JSON serialization support
 - Livewire wire support for real-time updates
 
-[Unreleased]: https://github.com/Luinux81/map-geometries/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/Luinux81/map-geometries/releases/tag/v1.0.0
+[Unreleased]: https://github.com/LBCDev-Libs/map-geometries/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/LBCDev-Libs/map-geometries/releases/tag/v1.0.0
