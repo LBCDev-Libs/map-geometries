@@ -7,6 +7,8 @@
 
 A PHP package for working with map geometries (Markers, Polylines, Polygons, etc.) with full Livewire support.
 
+📖 [Browse the generated documentation on DeepWiki](https://deepwiki.com/LBCDev-Libs/map-geometries).
+
 ## Features
 
 - 🎯 **Marker Support**: Create and manage map markers
