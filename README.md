@@ -4,6 +4,7 @@
 [![Latest Stable Version](https://poser.pugx.org/lbcdev/map-geometries/v)](https://packagist.org/packages/lbcdev/map-geometries)
 [![Total Downloads](https://poser.pugx.org/lbcdev/map-geometries/downloads)](https://packagist.org/packages/lbcdev/map-geometries)
 [![License](https://poser.pugx.org/lbcdev/map-geometries/license)](https://packagist.org/packages/lbcdev/map-geometries)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/LBCDev-Libs/map-geometries)
 
 A PHP package for working with map geometries (Markers, Polylines, Polygons, etc.) with full Livewire support.
 
